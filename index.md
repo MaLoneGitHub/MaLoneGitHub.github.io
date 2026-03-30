@@ -36,7 +36,7 @@ title: 企业微信CLI开源项目发布,支持通过CLI使用接口能力
 
 ④ 配置可见成员，并完成权限授权，保存即可完成机器人创建。
 
-![](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/1db0e88d6ecd4cbc977a5be24aae1328~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3MzUxMjAzOTQ0MjI=:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMzk1MTAxMTc4ODIzNzAxOCJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1775445579&x-orig-sign=aXfKeHxBQqv6FznCl0417maXhQs%3D)
+![](./image01.png)
 
 #### 3.2 安装
 
@@ -90,7 +90,7 @@ title: 企业微信CLI开源项目发布,支持通过CLI使用接口能力
 
 ### 5.  其他指引
 
-![](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/5936b105915a458a84a1b39ebe0fa428~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3MzUxMjAzOTQ0MjI=:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMzk1MTAxMTc4ODIzNzAxOCJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1775445579&x-orig-sign=OfQV5SA%2B0ACj3cdxaC8eisRciEQ%3D)
+![](./image02.png)
 
 [企业微信接入OpenClaw指引与官方社群](https://doc.weixin.qq.com/doc/w3_AFYA1wY6ACoCNRxfnyGRJQaSa6jjJ?scode=AJEAIQdfAAoLJ5pm3iAFYA1wY6ACo)
 
