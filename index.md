@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 企业微信CLI开源项目发布,支持通过CLI使用接口能力
 ---
 
